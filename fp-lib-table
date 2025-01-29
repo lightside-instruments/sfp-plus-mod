@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sfp-plus-mod")(type "KiCad")(uri "${KIPRJMOD}/sfp-plus-mod.kicad_mod")(options "")(descr ""))
+  (lib (name "library")(type "KiCad")(uri "${KIPRJMOD}/library.pretty")(options "")(descr ""))
+)

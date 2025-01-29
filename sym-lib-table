@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sfp-plus-mod")(type "KiCad")(uri "sfp-plus-mod.kicad_sym")(options "")(descr ""))
+)
