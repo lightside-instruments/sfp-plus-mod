@@ -1,3 +1,9 @@
+sfp-plus-mod (1.1) noble; urgency=medium
+
+  * Added version text to PCB and logo
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Wed, 29 Jan 2025 10:53:23 +0100
+
 sfp-plus-mod (1.0) noble; urgency=medium
 
   * Initial release.
