@@ -1,3 +1,9 @@
+sfp-plus-mod (1.2) noble; urgency=medium
+
+  * Added Mask.F and Mask.B polygons to exclude masking the connector areas
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Tue, 25 Feb 2025 16:37:13 +0100
+
 sfp-plus-mod (1.1) noble; urgency=medium
 
   * Added version text to PCB and logo
