@@ -1,3 +1,9 @@
+sfp-plus-mod (1.3) noble; urgency=medium
+
+  * Added 4 mounting M2.5 holes
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Fri, 04 Jul 2025 13:10:27 +0200
+
 sfp-plus-mod (1.2) noble; urgency=medium
 
   * Added Mask.F and Mask.B polygons to exclude masking the connector areas
