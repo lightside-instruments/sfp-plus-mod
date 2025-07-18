@@ -1,3 +1,9 @@
+sfp-plus-mod (1.3-1) noble; urgency=medium
+
+  * Added OpenSCAD design of a 3d printable mechanical enclosure conforming with minor exceptions to SFF-8432 Rev 5.2a
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Fri, 18 Jul 2025 19:06:54 +0200
+
 sfp-plus-mod (1.3) noble; urgency=medium
 
   * Added 4 mounting M2.5 holes
