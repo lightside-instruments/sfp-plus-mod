@@ -5,7 +5,7 @@ Up to release sfp-plus-mod-1.3 the project provided schematics and
 PCB design files for KiCAD. Since sfp-plus-mod-1.3-1
 OpenSCAD design of a 3d printable mechanical enclosure conforming
 with minor exceptions to SFF-8432 Rev 5.2a
-was added - part.scad.
+was added - mechanical.scad.
 
 The project is published by Lightside Instruments AS
 under TAPR Open Hardware License. Read the LICENSE file

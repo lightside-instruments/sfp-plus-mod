@@ -138,6 +138,11 @@
       (stroke (width 0.15) (type solid)) (fill none) (layer "F.Fab") (tstamp c748aef9-f8d0-4534-9875-8569142a3711))
     (pad "" np_thru_hole circle (at 0 0) (size 2.75 2.75) (drill 2.75) (layers "*.Mask" "F.Cu" "In1.Cu" "In2.Cu" "B.Cu")
       (solder_mask_margin 1.725) (clearance 1.725) (tstamp cd25a1d8-ea58-4345-aacb-1792bea2b88b))
+    (model "${KIPRJMOD}/mechanical.wrl"
+      (offset (xyz -67 -6 1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_Coaxial:SMA_Wurth_60312002114503_Vertical" (layer "F.Cu")
