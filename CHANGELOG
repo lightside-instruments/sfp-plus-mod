@@ -1,3 +1,9 @@
+sfp-plus-mod (1.3-2) noble; urgency=medium
+
+  * Added Vertical SMA coaxial connector 3D models recently added to KiCAD 
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Thu, 24 Jul 2025 14:48:28 +0200
+
 sfp-plus-mod (1.3-1) noble; urgency=medium
 
   * Added OpenSCAD design of a 3d printable mechanical enclosure conforming with minor exceptions to SFF-8432 Rev 5.2a

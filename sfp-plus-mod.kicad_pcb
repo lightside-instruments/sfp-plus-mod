@@ -199,7 +199,7 @@
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 657cc286-8b70-4ab2-ae4d-daa2951ec5f3))
     (pad "2" thru_hole circle (at 2.54 2.54) (size 2.25 2.25) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp c7051d78-35c9-4948-ba77-a81ad2104d8b))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Wurth_60312002114503_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-11_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -995,7 +995,7 @@
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 3e06679c-267c-440b-99b3-9f3dc63275a3))
     (pad "2" thru_hole circle (at 2.54 2.54) (size 2.25 2.25) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 31ee70d7-4d37-403c-96f8-070b1ab80c5e))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Wurth_60312002114503_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-11_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1090,7 +1090,7 @@
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 03602b08-47de-4a7c-8e7c-2626f7669beb))
     (pad "2" thru_hole circle (at 2.54 2.54) (size 2.25 2.25) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp ba6374de-0929-4d4e-aae7-a28c32f45838))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Wurth_60312002114503_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-11_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1273,7 +1273,7 @@
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 77fbf6a1-3f41-4618-92c3-b50d3a2abd85))
     (pad "2" thru_hole circle (at 2.54 2.54) (size 2.25 2.25) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 4 "GND") (pinfunction "Ext") (pintype "passive") (tstamp e124249d-99ef-4931-80f1-28331fb2cc07))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_901-144_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-11_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
