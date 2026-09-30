@@ -1,3 +1,10 @@
+sfp-plus-mod (1.3-4) trixie; urgency=medium
+
+  * Updated to KiCAD 9
+  * Added addon board reference project
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Wed, 30 Sep 2026 18:06:16 +0200
+
 sfp-plus-mod (1.3-3) noble; urgency=medium
 
   * Renamed part.scad to mechanical.scad

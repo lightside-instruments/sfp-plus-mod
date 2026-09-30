@@ -452,7 +452,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sfp-plus-mod.kicad_pro",
+    "filename": "addon-eeprom.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -488,12 +488,12 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "eeprom-addon-1.3",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sfp-plus-mod-w-mechanical.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "sfp-plus-mod-w-mechanical.wrl"
     },
     "page_layout_descr_file": ""
   },
